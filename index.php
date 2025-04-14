@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>App Service-MySQL Table Viewer</title>
+	<title>App Service : MySQL Table Viewer</title>
 </head>
 <body>
-	<h1>MySQL Table Viewer</h1>
+	<h1>App Service : MySQL Table Viewer</h1>
 	<?php
 		//  modified Sandesh 4/14/2025
 		$servername = "mysqlserver-app-modernize.mysql.database.azure.com";
