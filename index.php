@@ -6,7 +6,7 @@
 <body>
 	<h1>MySQL Table Viewer</h1>
 	<?php
-		// Define database connection variables
+		//  modified Sandesh 4/14/2025
 		$servername = "mysqlserver-app-modernize.mysql.database.azure.com";
 		$username = "sqluser";
 		$password = "Password12345!";
